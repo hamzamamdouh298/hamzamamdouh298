@@ -6,9 +6,9 @@
 
 <!--<h1 align="right"></h1>
 <h1 align="center">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=garma-a&label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
+  <img width="20%" src="https://komarev.com/ghpvc/?username=S A M &label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
 </h1>
-<h4 align="left"><a width="40%" href="https://garma-a.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="girgisemad74@gmail.com"> 📫 My email</a>
+<h4 align="left"><a width="40%" href="https://hamzamamdouh298.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="hamzamamdouh298@gmail.com"> 📫 My email</a>
 <p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=GARMA-A&row=1&theme=algolia&title=-Followers,-Reviews,-Experience" /></p></h4>-->
 
 <p align="center">
@@ -65,7 +65,7 @@ hobbies: ["Basketball", "Competitive Gaming"]
 |-|-|
 
 <!--<h3 align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&layout=compact&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff" alt="Most Used Languages" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S A M A&layout=compact&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff" alt="Most Used Languages" />
 </h3>
 <hr/>
 <h3 align="center">Programming Language </h3>

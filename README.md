@@ -6,7 +6,7 @@
 
 <!--<h1 align="right"></h1>
 <h1 align="center">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=hamzamamdouh298&label=Profile%20views&color=17477b&style=flat" alt="garma-a" />
+  <img width="20%" src="https://komarev.com/ghpvc/?username=hamzamamdouh298&label=Profile%20views&color=17477b&style=flat" alt="hamzamamdouh298" />
 </h1>
 <h4 align="left"><a width="40%" href="https://hamzamamdouh298.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%"  href="hamzamamdouh298@gmail.com"> 📫 My email</a>
 <p align="right" width="45%"> <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=hamzamamdouh298&row=1&theme=algolia&title=-Followers,-Reviews,-Experience" /></p></h4>-->
@@ -14,7 +14,7 @@
 <p align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;Girgis+Emad!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;S A M" alt="Typing SVG" />
   </a>
 </p>
 

@@ -25,7 +25,7 @@
  <h3 align="center"><a width="40%" href="https://hamzamamdouh298.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%" href="https://mail.google.com/mail/?view=cm&fs=1&to=hamzamamdouh298@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20goes%20here"> 📫 My email</a></h3> 
 </p>
 
-| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GARMA-A&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GARMA-A&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff&card_width=300&hide_progress=true&langs_count=10) |
+| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzamamdouh298&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamamdouh298&theme=github_dark&title_color=58a6ff&text_color=9f9f9f&bg_color=0d1117&border_color=58a6ff&card_width=300&hide_progress=true&langs_count=10) |
 |-|-|
 
 

@@ -1,6 +1,4 @@
-<!--<p align="center">
-  <img src="Bottom_up.svg">
-</p>-->
+
 
 
 

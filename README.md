@@ -14,8 +14,7 @@
 
  <h1 align="center">Hi 👋, I'm HAMZA MAMDOUH -SAM-</h1>
 <h3 align="center">AASTMT SE student skilled in REACTJS, and UI/UX design, aiming to become a Full Stack Engineer.</h3>
-![lol-unscreen](https://github.com/user-attachments/assets/d0e19cf2-265d-43dd-b4b6-6b1035b47fe2)
-
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/EGyk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamamdouh298&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamamdouh298" /> </p>
 

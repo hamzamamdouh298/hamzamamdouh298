@@ -15,8 +15,7 @@
  <h1 align="center">Hi 👋, I'm HAMZA MAMDOUH -SAM-</h1>
 <h3 align="center">AASTMT SE student skilled in REACTJS, and UI/UX design, aiming to become a Full Stack Engineer.</h3>
 
-https://i.gifer.com/EGyk.mp4
-
+https://media.tenor.com/DkLuqx5rQcUAAAAM/cat.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamamdouh298&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamamdouh298" /> </p>
 
 - 📫 How to reach me **hamzamamdouh298@gmail.com**

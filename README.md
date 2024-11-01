@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;S+A+M" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzamamdouh298&margin-w=15&column=5&theme=algolia&title=-Followers,-Reviews,-Experience"" alt="Trophy" />
 </p>

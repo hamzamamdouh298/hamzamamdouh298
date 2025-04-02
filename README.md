@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=600&color=FF4500&lines=;I+swear+to+ِAllah+I+will+let+the+fire+consume+half+of+Israel.;-+Saddam+Hussein" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=600&color=FF4500&lines=;I+swear+to+Allah+I+will+let+the+fire+consume+half+of+Israel.;-+Saddam+Hussein" alt="Typing SVG" />
   </a>
 </div>
 
